@@ -1,0 +1,40 @@
+
+.ui.button,
+.dot.circle.icon {
+  background-color: #FFA8A8;
+  color: white;
+}
+
+.pac-icon {
+  display: none;
+}
+
+.pac-item {
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.pac-item:hover {
+  background-color: #ececec;
+}
+
+.pac-item-query {
+  font-size: 16px;
+}
+
+.active {
+    background: #FFA8A8 !important;
+}
+
+#map {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+
+
+
