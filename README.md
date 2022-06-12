@@ -1,2 +1,2 @@
 # GIS React Restaurant Finder With Login Page
- Near restaurant finder on Google Maps with login page using Firebase
+ Near restaurant finder on Google Maps
